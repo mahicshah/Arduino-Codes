@@ -1,5 +1,3 @@
-// https://www.tinkercad.com/things/1iszMmEdK7i-turn-on-led-and-keep-it-on
-
 const int buttonPin = 7; 
 const int ledPin = 13;    
 

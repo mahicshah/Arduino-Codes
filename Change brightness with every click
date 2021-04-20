@@ -1,5 +1,3 @@
-https://www.tinkercad.com/things/0zoJKGcdKzR-change-brightness-with-every-click
-
 int buttonstateold = 0;
 int buttonstatenew = 0;
 int ledPin = 11;

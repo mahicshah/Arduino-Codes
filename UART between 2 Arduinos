@@ -1,5 +1,3 @@
-https://www.tinkercad.com/things/4LELb1XIrrd-uart-between-2-arduinos
-
 Sending:
 
 char string[] = "Hello";  //String data

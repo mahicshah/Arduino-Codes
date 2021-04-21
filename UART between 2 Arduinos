@@ -1,15 +1,15 @@
 Sending:
 
-char mystr[] = "Hello";
+char string[] = "Hello";  //String data
 
 void setup()
 {
-  Serial.begin(9600);
+  Serial.begin(9600);  //Baud rate set to 9600
 }
 
 void loop()
 {
-  Serial.write(mystr,5);
+  Serial.write(string,5);  //Write the string data
   delay(1000);
 }
 
@@ -17,16 +17,16 @@ void loop()
 
 Receiving:
 
-char mystr[10];
+char string[10];  //Initialized variable to store variable data
 
 void setup()
 {
-  Serial.begin(9600);
+  Serial.begin(9600);  //Baud rate set to 9600
 }
 
 void loop()
 {
-  Serial.readBytes(mystr,5);
-  Serial.println(mystr);
+  Serial.readBytes(string,5);  //Read data
+  Serial.println(string);  //Print data on serial monitor
   delay(1000);
 }

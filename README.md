@@ -4,7 +4,7 @@ This repository consists of all Arduino codes learnt in Formula Manipal's ECS Ta
 These codes were implemented on Arduinos in TinkerCAD.
 
 Topic | Link
-- - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Blinking of LED | https://www.tinkercad.com/things/42hpmB8jNVS-blinking-of-led
 Change brightness with every click | https://www.tinkercad.com/things/0zoJKGcdKzR-change-brightness-with-every-click
 Find number of button clicks (resolving bouncing) | https://www.tinkercad.com/things/dpqkcqIeeJG-finding-number-of-button-clicks-resolving-bouncing

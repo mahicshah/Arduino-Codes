@@ -6,7 +6,7 @@ These codes were implemented on Arduinos in TinkerCAD.
 Topic | Link
 ----- | ---------
 Blinking of LED |![Screenshot 2022-02-07 at 4 00 46 PM](https://user-images.githubusercontent.com/82862036/152771169-a0c1373f-b436-4092-82d5-4a91b5fa3c9b.png)
-                | https://www.tinkercad.com/things/42hpmB8jNVS-blinking-of-led
+https://www.tinkercad.com/things/42hpmB8jNVS-blinking-of-led
 Change brightness with every click | https://www.tinkercad.com/things/0zoJKGcdKzR-change-brightness-with-every-click
 Find number of button clicks (resolving bouncing) | https://www.tinkercad.com/things/dpqkcqIeeJG-finding-number-of-button-clicks-resolving-bouncing
 I2C Between 2 Arduinos | https://www.tinkercad.com/things/g6fqEEiP8hc-i2c-between-two-arduinos
